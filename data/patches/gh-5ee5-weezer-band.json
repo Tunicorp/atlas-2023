@@ -1,0 +1,88 @@
+{
+	"id": -1,
+	"name": "Weezer band",
+	"description": "Weezer is an American rock band formed in Los Angeles, California, in 1992. Since 2001, the band has consisted of Rivers Cuomo (vocals, guitar, keyboards), Patrick Wilson (drums, backing vocals), Scott Shriner (bass guitar, keyboards, backing vocals), and Brian Bell (guitar, keyboards, backing vocals).",
+	"links": {},
+	"path": {
+		"251-259": [
+			[
+				1269,
+				-809
+			],
+			[
+				1264,
+				-809
+			],
+			[
+				1254,
+				-809
+			],
+			[
+				1250,
+				-809
+			],
+			[
+				1250,
+				-807
+			],
+			[
+				1249,
+				-807
+			],
+			[
+				1249,
+				-806
+			],
+			[
+				1248,
+				-806
+			],
+			[
+				1248,
+				-805
+			],
+			[
+				1247,
+				-805
+			],
+			[
+				1247,
+				-804
+			],
+			[
+				1246,
+				-804
+			],
+			[
+				1246,
+				-803
+			],
+			[
+				1245,
+				-803
+			],
+			[
+				1245,
+				-799
+			],
+			[
+				1269,
+				-799
+			],
+			[
+				1269,
+				-809
+			],
+			[
+				1269,
+				-809
+			]
+		]
+	},
+	"center": {
+		"251-259": [
+			1257,
+			-804
+		]
+	}
+}
